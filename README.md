@@ -26,7 +26,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, Azure, Java, Python, MongoDB.**
 
-- 🎓 I'm  an undergraduate at **Sabaragamuwa University of Sri Lnaka.**
+- 🎓 I'm  an undergraduate at **Sabaragamuwa University of Sri Lanka.**
 
 - ☁️ I have a keen interest in cloud computing. So,I'm learning **AWS, Azure.**
 
@@ -102,6 +102,7 @@
 [![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madunikathathsarani&label=Profile%20views&color=0e75b6&style=flat" alt="madunikathathsarani" /> </p>
 
 
 <!--horizontal divider(gradiant)-->
